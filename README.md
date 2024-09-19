@@ -1,2 +1,3 @@
-# Wabi-Sabi-Application
-Application for children suffering from alexithymia.
+# Wabi-Sabi
+
+Our project
